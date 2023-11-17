@@ -1,3 +1,2 @@
 # FOSS-Website
-Website for FOSS Club
-rishi
+Website for FOSS Club rishi
